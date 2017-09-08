@@ -16,7 +16,7 @@ class lengthOfLongestSubstring {
                 }
             }else{
                 int j=map.get(s.charAt(i));
-                map.put(s.charAt(i),i) ;
+                map.put(s.charAt(i),i);
                 if(j<flag){
                     j=flag;
                 }else{
