@@ -1,4 +1,4 @@
-public class MedianofTwoSortedArrays {
+public class Q4MedianofTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         double result;
         if (nums1.length > nums2.length) {

@@ -1,4 +1,4 @@
-public class PalindromeNumber {
+public class Q9PalindromeNumber {
     public boolean isPalindrome(int x) {
         int y=x;
         long result=0;

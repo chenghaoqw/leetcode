@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class TwoSum {
+public class Q1TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int[] result = new int[2];
         int l = nums.length;
@@ -54,7 +54,7 @@ public class TwoSum {
             line = in.readLine();
             int target = Integer.parseInt(line);
 
-            int[] ret = new TwoSum().twoSum(nums, target);
+            int[] ret = new Q1TwoSum().twoSum(nums, target);
 
             String out = integerArrayToString(ret);
 

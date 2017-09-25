@@ -1,4 +1,4 @@
-public class ZigZagConversion {
+public class Q6ZigZagConversion {
     public String convert(String s, int numRows) {
         if ("".equals(s) || numRows == 1) {
             return s;

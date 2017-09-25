@@ -1,4 +1,4 @@
-public class StringtoInteger {
+public class Q8StringtoInteger {
     public int myAtoi(String str) {
         int l=str.length();
         if(l==0){

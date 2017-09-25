@@ -1,4 +1,4 @@
-public class ReverseInteger {
+public class Q7ReverseInteger {
     public int reverse(int x) {
         boolean isMinus = false;
         if (x < 0) {

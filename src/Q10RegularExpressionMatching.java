@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class RegularExpressionMatching {
+public class Q10RegularExpressionMatching {
     class Solution {
         class MultiChar{
             public int len;
