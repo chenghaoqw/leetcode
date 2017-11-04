@@ -1,4 +1,4 @@
-public class Q217RotateArray {
+public class Q189RotateArray {
     public int rotateArray(int[] nums) {
         if(nums.length==0){
             return 0;
