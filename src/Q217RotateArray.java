@@ -1,5 +1,5 @@
-public class Q169MajorityElement {
-    public int majorityElement(int[] nums) {
+public class Q217RotateArray {
+    public int rotateArray(int[] nums) {
         if(nums.length==0){
             return 0;
         }
