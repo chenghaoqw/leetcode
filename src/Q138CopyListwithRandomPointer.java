@@ -25,7 +25,6 @@ public class Q138CopyListwithRandomPointer {
         return node;
     }
 
-
     class RandomListNode {
         int label;
         RandomListNode next, random;
